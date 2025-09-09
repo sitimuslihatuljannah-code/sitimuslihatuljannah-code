@@ -1,4 +1,10 @@
 ## Hi there 👋
+## 🪪 Identitas
+- **Nama** : Sinta Nur Hidayah  
+- **NIM** : 230605110086  
+- **Kelas** : A  
+
+---
 
 <!--
 **sitimuslihatuljannah-code/sitimuslihatuljannah-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
