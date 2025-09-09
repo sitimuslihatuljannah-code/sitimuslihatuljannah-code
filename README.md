@@ -1,8 +1,8 @@
 ## Hi there 👋
 ## 🪪 Identitas
-- **Nama** : Sinta Nur Hidayah  
-- **NIM** : 230605110086  
-- **Kelas** : A  
+- **Nama** : Siti Muslihatul Jannah
+- **NIM** : 230605110199
+- **Kelas** : Praktikum Pemrograman Mobile A
 
 ---
 
